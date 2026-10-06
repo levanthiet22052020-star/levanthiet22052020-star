@@ -19,7 +19,3 @@
 | [**Coffe Lungo**](https://github.com/levanthiet22052020-star/coffe-lungo) | Ứng dụng đặt đồ uống đa nền tảng (client–server) | React Native, Expo 54, TypeScript, Node.js |
 | [**Mandarin Learning**](https://github.com/levanthiet22052020-star/mandarin-learning-api) | Web học tiếng Trung HSK: REST API + web học + trang quản trị (deploy trên Render) | Node.js, Express, REST API |
 | [**IT Vocab Test Admin**](https://github.com/levanthiet22052020-star/admin_it_vocab_test) | Trang quản trị bài kiểm tra từ vựng IT (7 trang) | HTML, CSS, JavaScript |
-
-#### 📊 Thống kê
-
-![Profile views](https://komarev.com/ghpvc/?username=levanthiet22052020-star&color=1a7898&style=flat-square)
