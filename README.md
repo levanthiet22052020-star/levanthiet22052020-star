@@ -1,17 +1,17 @@
-### Xin chào, tôi là Lê Văn Thiệt 👋
+### Xin chào, tôi là Lê Văn Thiệt
 
 **Fresher Mobile Developer** — Android · Kotlin · React Native
 
-- 🎓 **Cao đẳng FPT Polytechnic** — Ngành Lập trình Mobile (2024–2026), GPA **3.37/4.0**, đang chờ xét tốt nghiệp
-- 🏆 Thực tập tốt nghiệp **10/10 (A+)** · Dự án tốt nghiệp — Cross-platform **8.5 (A)**
-- 📱 Đã xây dựng: ứng dụng Android (Kotlin + Retrofit + Docker), ứng dụng React Native (Expo), web full-stack Node.js
-- 📫 **0343 934 604** · **lvthietit@gmail.com**
+- **Cao đẳng FPT Polytechnic** — Ngành Lập trình Mobile (2024–2026), GPA **3.37/4.0**, đang chờ xét tốt nghiệp
+- Thực tập tốt nghiệp **10/10 (A+)** · Dự án tốt nghiệp — Cross-platform **8.5 (A)**
+- Đã xây dựng: ứng dụng Android (Kotlin + Retrofit + Docker), ứng dụng React Native (Expo), web full-stack Node.js
+- **0343 934 604** · **lvthietit@gmail.com**
 
-#### 🛠 Tech stack
+#### Tech stack
 
 `Kotlin` `Java` `Android SDK` `React Native` `Expo` `TypeScript` `JavaScript` `Node.js` `Express` `REST API` `Docker` `SQL` `HTML/CSS` `Git` `Agile/Scrum`
 
-#### 🚀 Dự án nổi bật
+#### Dự án nổi bật
 
 | Dự án | Mô tả | Công nghệ |
 |---|---|---|
